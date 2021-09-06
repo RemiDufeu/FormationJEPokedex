@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/pokedexReact/node_modules
+/pokedexReact/.pnp
+.pnp.js
+
+# testing
+/pokedexReact/coverage
+
+# production
+/pokedexReact/build
+
+# misc
+/pokedexReact.DS_Store
+/pokedexReact.env.local
+/pokedexReact.env.development.local
+/pokedexReact.env.test.local
+/pokedexReact.env.production.local
+
+/pokedexReactnpm-debug.log*
+/pokedexReactyarn-debug.log*
+/pokedexReactyarn-error.log*
